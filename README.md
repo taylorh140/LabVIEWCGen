@@ -12,7 +12,7 @@ Pros
  
 Cons
   * Supports nothing else
-  * Requires all wires to be named
+  * Requires all wires to be named (it names them)
 
 ## How to Use
 
