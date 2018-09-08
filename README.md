@@ -30,9 +30,9 @@ I presently handle each call as a preallocated rentrant vi. This means that each
 
 
 ![Test5 vi block diagram](../master/Doc/Test5d.png?raw=true "Test5.vi")
-![Test5 vi block diagram](../master/Doc/Test5d.png?raw=true "Test5d1.vi")
-![Test5 vi block diagram](../master/Doc/Test5d.png?raw=true "Test5d2.vi")
-![Test5 vi block diagram](../master/Doc/Test5d.png?raw=true "Test5d3.vi")
+![Test5 vi block diagram](../master/Doc/Test5d1.png?raw=true "Test5d1.vi")
+![Test5 vi block diagram](../master/Doc/Test5d2.png?raw=true "Test5d2.vi")
+![Test5 vi block diagram](../master/Doc/Test5d3.png?raw=true "Test5d3.vi")
 
 
 The code above is converted into the following c code along with the data recommended for the header file:
