@@ -26,5 +26,5 @@ Given that LabVIEW is a flow based notation the convertion to c code seems obvio
 
 ### Data structure
 
-I presently handle each call as a preallocated rentrant vi. This means that each vi has its own memory for its inputs and outputs, which is what is stored in the memory. Each subVI gets its own typedef, the c function does not return anything and has a single parameter the context which i named _C_ because it looks contexty and is an unlikely name to be reused.
+I presently handle each call as a preallocated rentrant vi. This means that each vi has its own memory for its inputs and outputs, which is what is stored in the memory. Each subVI gets its own typedef, the c function does not return anything and has a single parameter the context which i named __C__ because it looks contexty and is an unlikely name to be reused.
 
