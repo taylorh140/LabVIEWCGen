@@ -23,27 +23,27 @@
 			<Item Name="Variable_Declaration.lvclass" Type="LVClass" URL="../CodeElements/Variable_Declaration/Variable_Declaration.lvclass"/>
 		</Item>
 		<Item Name="Converter" Type="Folder">
-			<Item Name="c_DECLARE_IO.vi" Type="VI" URL="../c_DECLARE_IO.vi"/>
-			<Item Name="c_GENERATE_OPERATIONS.vi" Type="VI" URL="../c_GENERATE_OPERATIONS.vi"/>
-			<Item Name="c_SET_OUTPUT_VALUES.vi" Type="VI" URL="../c_SET_OUTPUT_VALUES.vi"/>
-			<Item Name="CleanViName.vi" Type="VI" URL="../CleanViName.vi"/>
-			<Item Name="Converter.vi" Type="VI" URL="../Converter.vi"/>
-			<Item Name="GetControlsAndIndicators.vi" Type="VI" URL="../GetControlsAndIndicators.vi"/>
-			<Item Name="NameWires.vi" Type="VI" URL="../NameWires.vi"/>
-			<Item Name="TermTypeToString.vi" Type="VI" URL="../TermTypeToString.vi"/>
+			<Item Name="c_DECLARE_IO.vi" Type="VI" URL="../Converter/c_DECLARE_IO.vi"/>
+			<Item Name="c_GENERATE_OPERATIONS.vi" Type="VI" URL="../Converter/c_GENERATE_OPERATIONS.vi"/>
+			<Item Name="c_SET_OUTPUT_VALUES.vi" Type="VI" URL="../Converter/c_SET_OUTPUT_VALUES.vi"/>
+			<Item Name="CleanViName.vi" Type="VI" URL="../Converter/CleanViName.vi"/>
+			<Item Name="GetControlsAndIndicators.vi" Type="VI" URL="../Converter/GetControlsAndIndicators.vi"/>
+			<Item Name="NameWires.vi" Type="VI" URL="../Converter/NameWires.vi"/>
+			<Item Name="TermTypeToString.vi" Type="VI" URL="../Utilities/TermTypeToString.vi"/>
 		</Item>
 		<Item Name="Test" Type="Folder">
-			<Item Name="Test1.vi" Type="VI" URL="../Test1.vi"/>
-			<Item Name="Test2.vi" Type="VI" URL="../Test2.vi"/>
-			<Item Name="Test3.vi" Type="VI" URL="../Test3.vi"/>
-			<Item Name="Test4.vi" Type="VI" URL="../Test4.vi"/>
-			<Item Name="Test5.vi" Type="VI" URL="../Test5.vi"/>
+			<Item Name="Test1.vi" Type="VI" URL="../Test_VIs/Test1.vi"/>
+			<Item Name="Test2.vi" Type="VI" URL="../Test_VIs/Test2.vi"/>
+			<Item Name="Test3.vi" Type="VI" URL="../Test_VIs/Test3.vi"/>
+			<Item Name="Test4.vi" Type="VI" URL="../Test_VIs/Test4.vi"/>
+			<Item Name="Test5.vi" Type="VI" URL="../Test_VIs/Test5.vi"/>
 		</Item>
 		<Item Name="Utilities" Type="Folder">
-			<Item Name="Split Lines.vi" Type="VI" URL="../Split Lines.vi"/>
-			<Item Name="TabJoinLines.vi" Type="VI" URL="../TabJoinLines.vi"/>
-			<Item Name="TabOver.vi" Type="VI" URL="../Utilites/TabOver.vi"/>
+			<Item Name="Split Lines.vi" Type="VI" URL="../Utilities/Split Lines.vi"/>
+			<Item Name="TabJoinLines.vi" Type="VI" URL="../Utilities/TabJoinLines.vi"/>
+			<Item Name="TabOver.vi" Type="VI" URL="../Utilities/TabOver.vi"/>
 		</Item>
+		<Item Name="Converter.vi" Type="VI" URL="../Converter.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
