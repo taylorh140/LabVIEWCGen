@@ -2,6 +2,7 @@
 Elementry C code Generator For LabVIEW
 
 Pros
+
  Supports the following constucts:
  * I32
  * SubVI Calls
