@@ -43,6 +43,7 @@ The code above is converted into the following c code along with the data recomm
 ```C
 typedef struct Test5_tag
 {
+  Test1_t Test1_1;
   int32_t OutVal;
   int32_t TrxVal;
   int32_t CSelect;
