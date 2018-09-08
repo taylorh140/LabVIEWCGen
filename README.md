@@ -80,6 +80,7 @@ void Test5(Test5_ptr_t _C_){
       break;
       
       case  2 :
+        Val_205 = Val_183;
         Val_174 = Val_205;
       break;
       
